@@ -1,1 +1,1 @@
-web: gunicorn app2222:main
+web: gunicorn app:app2222
